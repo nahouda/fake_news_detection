@@ -22,7 +22,7 @@ python test.py
 
 # Software and Library Requirements:
 
-requirement.txt:
+requirements.txt:
 attrs==19.1.0
 beautifulsoup4==4.7.1
 certifi==2019.6.16
