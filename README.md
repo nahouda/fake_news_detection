@@ -14,9 +14,12 @@ Clone this repo to your local machine using https://github.com/nahouda/fake_news
 
 conda create env -f environment 
 
+conda activate dash
+
 pip install -r requirements.txt
 
 python test.py
+
 # Software and Library Requirements:
 
 requirement.txt:
