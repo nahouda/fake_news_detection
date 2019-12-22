@@ -1,4 +1,4 @@
-"# fake_news_detection" 
+# fake_news_detection 
 
 This application gathers tweets, predicts their category between **Real**, **Fake** and then shows a summary.
 
@@ -11,8 +11,11 @@ This application gathers tweets, predicts their category between **Real**, **Fak
 -->press the **Scrape** button.
 # Installation :
 Clone this repo to your local machine using https://github.com/nahouda/fake_news_detection.git
+
 conda create env -f environment 
+
 pip install -r requirements.txt
+
 python test.py
 # Software and Library Requirements:
 
